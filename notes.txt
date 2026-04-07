@@ -1,0 +1,25 @@
+MERN - Full Stack
+
+client    -> server    -> db 
+(frontend)  (backend)    persistent store
+  UI         App Logic
+
+client : React JS | Angular| Vue JS
+    (Javascript | Typescript)
+    UI : HTML/CSS, Bootstrap
+server : JSm (express JS) | Py (Fast/Flask/Django) | Java (SB) | C# | Go
+    (REST API)
+Db: RDBMS(SQL) : oracle, sql server,mysql,sqlite,postgress
+    No SQL: Mongo, Cassandra
+
+MERN - Full Stack
+    clinet -> server -> db
+    React JS ->Express JS / Node JS -> Mongo DB
+
+Mongo DB:
+
+working with
+     Cloud Mongo DB Server
+     1.go to "mongodb.com" or search mongo Cloud 
+     2.sign up via google account
+     3. Cluster -> Build  a Cluster
